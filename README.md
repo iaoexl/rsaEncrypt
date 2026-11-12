@@ -42,7 +42,7 @@ pip install pyinstaller
 # 加载 logo
 	pyinstaller -F -i `icon\logo.ico` main.py
 # 完整打包案例，将config.ini文件也放到 exe 运行时的根目录
-	pyinstaller -F --clean --noconfirm --add-data "config.ini;." --hidden-import=jwt --name rsaEncrypt main.py
+	pyinstaller -F --clean --noconfirm --add-data "config.ini;." --hidden-import=rsaEncrypt --name rsaEncrypt main.py
 ```
 
 ## notepad++ 运行python脚本
