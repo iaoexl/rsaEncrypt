@@ -2,7 +2,7 @@
 
 > 原先测试一些用到RSA加密的接口时，会用到在线的。在没有公网状态下，就能用本脚本啦。
 > 
-> [main.py](rsa.python/main.py)  脚本在Windows环境中运行、测试，适配 [python-3.10](https://www.python.org/ftp/python/3.10.0/python-3.10.0rc2-amd64.exe) 程序。运行时需要将 `config.example.ini` 重命名为 `config.example.ini`
+> [main.py](src/main.py)  脚本在Windows环境中运行、测试，适配 [python-3.10](https://www.python.org/ftp/python/3.10.0/python-3.10.0rc2-amd64.exe) 程序。运行时需要将 `config.example.ini` 重命名为 `config.example.ini`
 
 ```cmd
 # 复制一份
