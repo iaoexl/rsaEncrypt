@@ -49,3 +49,32 @@ pip install pyinstaller
 ```bash
 cmd /k cd /d "$(CURRENT_DIRECTORY)" & python "$(FULL_CURRENT_PATH)" & echo. & pause & exit
 ```
+
+## 请我喝杯咖啡
+
+|     微信赞赏码     |       支付宝        |       支付宝红包        |
+| :----------------: | :-----------------: | :-----------------: |
+| <img src="images/wx.jpg" alt="赞赏码" width="200"> | <img src="images/zfb.jpg" alt="支付宝" width="200">| <img src="images/zfb_hb.jpg" alt="支付宝红包" width="200">|
+
+## 你可以在这些地方找到我 (Find Me Here)
+
+<p align="center">
+  <a href="https://gitcode.com/techtest/rsaEncrypt.git" target="_blank" rel="noopener">
+    <img src="images/favicon_gitcode.ico" width="18" height="18" alt="GitCode">&nbsp;GitCode
+  </a>
+  <span style="color: #999;">&nbsp;/&nbsp;</span>
+  <a href="https://atomgit.com/techtest/rsaEncrypt.git" target="_blank" rel="noopener">&nbsp;AtomGit
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://cnb.cool/iaoexl/techtest/rsaEncrypt.git" target="_blank" rel="noopener">
+    <img src="images/favicon_cnb.ico" width="18" height="18" alt="腾讯云 CNB">&nbsp;腾讯云 CNB
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gitee.com/techtest/rsaEncrypt.git" target="_blank" rel="noopener">
+    <img src="images/favicon_gitee.ico" width="18" height="18" alt="Gitee">&nbsp;Gitee
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/iaoexl/rsaEncrypt.git" target="_blank" rel="noopener">
+    <img src="images/favicon_github.png" width="18" height="18" alt="GitHub">&nbsp;GitHub
+  </a>
+</p>
