@@ -1,8 +1,8 @@
 # 使用 RSA 根据公钥加密文本(rsaEncrypt)
 
-> 原先测试一些用到RSA加密的接口时，会用到在线的。在没有公网状态下，就能用本脚本啦。
+> 针对 RSA 加密接口的测试需求，传统方式多依赖在线网页。本脚本旨在解决无公网状态下的测试痛点，提供便捷的本地化解决方案。
 > 
-> [main.py](src/main.py)  脚本在Windows环境中运行、测试，适配 [python-3.10](https://www.python.org/ftp/python/3.10.0/python-3.10.0rc2-amd64.exe) 程序。运行时需要将 `config.example.ini` 重命名为 `config.example.ini`
+> [main.py](src/main.py)  脚本在Windows环境中运行、测试，适配 [python-3.10](https://www.python.org/ftp/python/3.10.0/python-3.10.0rc2-amd64.exe) 程序。运行时需要将 `config.example.ini` 重命名为 `config.ini`
 
 ```cmd
 # 复制一份
