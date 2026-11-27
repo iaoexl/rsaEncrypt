@@ -55,11 +55,5 @@ cmd /k cd /d "$(CURRENT_DIRECTORY)" & python "$(FULL_CURRENT_PATH)" & echo. & pa
 <!--
 ## 支持这个项目（Support This Project）
 
-> 如果这个项目为你节省了时间，欢迎支持它的持续维护：
-> 
->（If this project saves you time, consider supporting its ongoing maintenance:）
-
-|     微信赞赏码     |       支付宝        |       支付宝红包        |
-| :----------------: | :-----------------: | :-----------------: |
-| <img src="images/wx.jpg" alt="赞赏码" width="200"> | <img src="images/zfb.jpg" alt="支付宝" width="200">| <img src="images/zfb_hb.jpg" alt="支付宝红包" width="200">|
+如果这个项目对你有帮助，欢迎[赞助支持](SPONSOR.md)。
 -->
